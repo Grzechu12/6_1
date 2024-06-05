@@ -5,6 +5,7 @@ public class Student {
     private String Date;
 
     public Student(String name, int age, String date) {
+        
         Name = name;
         Age = age;
         Date = date;
